@@ -30,7 +30,7 @@ Then ask Claude to "de-AI this", "make this matter-of-fact", or "write like Paul
 
 ## Why bother
 
-Models learned to write from people, and a lot of people write fancy to hide having nothing to say. So models write fancy. Readers have spent three years learning to spot it, and now plain writing is the writing that reads as human. Paul Graham has been explaining how to write plainly for twenty years. This skill makes your AI take his advice.
+People can tell when AI wrote something. Paul Graham has spent twenty years explaining how to write plainly. This skill makes your AI follow his advice.
 
 ## License
 
