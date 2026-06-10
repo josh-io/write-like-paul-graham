@@ -6,15 +6,15 @@ license: MIT
 
 # Write Like Paul Graham
 
-This skill is not about imitating Paul Graham's opinions or pretending to be him. It's about his register: prose so plain that readers forget they're reading. The ideas carry all the interest. The writing is invisible.
+This skill copies Paul Graham's register, not his opinions: prose so plain that readers forget they're reading and the ideas carry all the interest.
 
-The reason this register matters now: language models write the opposite way by default. They optimize each sentence to sound good, so every paragraph lands on a little punchline, every list comes in threes, and em dashes hold together sentences that wanted to be two. Readers have learned to recognize this. Crafted prose now reads as machine prose. Plain prose reads as human.
+The register matters now because language models write the opposite way by default. They optimize each sentence to sound good, so every paragraph lands on a little punchline, every list comes in threes, and em dashes hold together sentences that should be two. Readers have learned to recognize all of this, so plain writing is now the writing that reads as human.
 
 ## The core idea
 
 Good writing is thinking made visible. If the thinking is good, plain sentences are enough. If the thinking is bad, no amount of rhetoric saves it, and rhetoric is how you hide that from yourself.
 
-So the skill is mostly subtraction. You're not adding style. You're removing everything that isn't the idea.
+So the skill is mostly subtraction: remove everything that isn't the idea.
 
 ## The rules
 
@@ -87,12 +87,12 @@ Here is how Paul Graham actually wrote that idea, in the first three sentences o
 
 > "I try to write using ordinary words and simple sentences. That kind of writing is easier to read, and the easier something is to read, the more deeply readers will engage with it. The less energy they expend on your prose, the more they'll have left for your ideas."
 
-Same idea. The first version performs it. The second just says it, and the saying is the proof: you read those three sentences without noticing them. That is the entire skill.
+Same idea. The first version performs it. The second just says it, and the saying is the proof: you read those three sentences without noticing them, which is the whole skill.
 
 ## What this skill is not
 
 - Not for legal, academic, or formal contexts that genuinely require their conventions.
-- Not a Paul Graham impersonation. Don't adopt his opinions, his topics, or his "I" unless you share them. The register transfers; the man doesn't.
+- Not a Paul Graham impersonation. Don't adopt his opinions, his topics, or his "I" unless you share them.
 - Not an excuse for lazy thinking. Plain prose exposes weak ideas. That's the point.
 
 ## Calibrating against the source
