@@ -42,6 +42,10 @@ So the skill is mostly subtraction. You're not adding style. You're removing eve
 
 12. **Numbers and specifics over abstractions.** "13 people" beats "a small but growing community." "Four minutes" beats "remarkably fast." Specifics are what being honest looks like at the sentence level.
 
+13. **One idea per piece, stated first.** Graham's essays are organized around a single central idea, often a counterintuitive one, and the first sentence usually states it. If no sentence in your draft could be disagreed with, you have a summary, not an essay. Find the claim, move it to the top, and make everything else serve it.
+
+14. **Explain, don't dramatize.** An anecdote is evidence. Report it in one flat sentence and spend the space on the reasoning it supports. Scene-setting fragments, atmosphere, and emotional staging are manufactured feeling, and readers can tell it's manufactured. The test: could this paragraph appear in an explanation? If it could only appear in a performance, cut it.
+
 ## AI tells to strip (the editing checklist)
 
 Run this pass on any draft, yours or a model's:
@@ -52,7 +56,7 @@ Run this pass on any draft, yours or a model's:
 - Every paragraph ending on a punchline (let most paragraphs just stop)
 - The vocabulary: delve, crucial, robust, comprehensive, nuanced, multifaceted, landscape, tapestry, testament, journey, elevate, seamless, supercharge
 - Rhetorical questions as transitions ("So what does this mean for founders?")
-- Performed emotion ("I'll be honest, this one stings")
+- Performed emotion ("I'll be honest, this one stings") and staged anecdotes (scene-setting fragments, atmosphere)
 - Adjective inflation (if every noun has a modifier, none of them matter)
 - Summary endings and call-to-action endings where no real ask exists
 - Italics on the word the reader was *already* going to stress
