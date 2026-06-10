@@ -42,7 +42,7 @@ So the skill is mostly subtraction: remove everything that isn't the idea.
 
 12. **Use numbers and specifics.** "13 people," not "a small but growing community." "Four minutes," not "remarkably fast." Specifics show you're telling the truth.
 
-13. **One idea per piece, stated first.** Each PG essay makes one claim, often a surprising one, and the first sentence usually states it. If nothing in your draft could be disagreed with, you haven't said anything. Find the claim and move it to the top.
+13. **One idea per piece, stated first.** Each PG essay makes one claim, often a surprising one, and the first sentence usually states it. If nothing in your draft could be disagreed with, you have a summary, not an essay. Find the claim and move it to the top.
 
 14. **Explain, don't dramatize.** An anecdote is evidence. Tell it in one flat sentence and spend the space on what it proves. Don't set scenes or stage feelings; readers know when a feeling is staged. If a paragraph performs instead of explains, cut it.
 
