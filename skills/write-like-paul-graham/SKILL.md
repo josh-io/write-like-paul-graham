@@ -20,7 +20,7 @@ So the skill is mostly subtraction. You're not adding style. You're removing eve
 
 1. **Plain declarative sentences.** Subject, verb, object. If a sentence needs a second read, it failed. Two short sentences beat one clever one.
 
-2. **Short common words.** "Use" not "utilize." "Helps" not "facilitates." "Now" not "in today's landscape." If a simpler word means the same thing, the longer one is decoration.
+2. **Short common words.** "Use" not "utilize." "Helps" not "facilitates." "Now" not "in today's landscape." If a simpler word means the same thing, the longer one is decoration. This goes double for judgments: if you mean bad, say bad. Models write around plain evaluative words ("you can tell when AI wrote it" instead of "AI writing is bad"), and the writing-around is itself a hedge.
 
 3. **Write like you talk.** The test: read it aloud. Every sentence you wouldn't actually say to a smart friend, rewrite until you would. Spoken language is the language readers process fastest. Two marks of talk worth checking for: the word "you" (talking has a listener), and repeated key words. Talk grabs the right word and keeps using it; PG uses "conceal" three times in three sentences. Rotating synonyms instead (hides, shows, masks, obscures) is a writing habit, and the variation is itself decoration.
 
