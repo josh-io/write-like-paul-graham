@@ -68,28 +68,17 @@ Run this pass on any draft, yours or a model's:
 
 ## Before and after
 
-A founder's launch announcement, first draft (reads as AI):
+Here is how a language model tends to write the idea behind this skill:
 
-> Nobody forgets on purpose.
->
-> You read the text at a red light. Your sister needs a yes or no by Friday. You think "tonight," and the light turns green.
->
-> That text is now forty messages deep.
->
-> Here's the thing I can't stop noticing: every productivity tool ever built makes the same demand — stop what you're doing and type the commitment in.
+> In today's content-saturated landscape, the most powerful writing isn't the most elaborate — it's the most accessible. When you write with ordinary words and simple sentences, something almost magical happens: friction melts away, and your reader's energy flows directly into your ideas rather than your prose. Because here's the truth: writing isn't about sounding smart. It's about being understood.
 
-After the pass (reads as a person):
+Every tell is present: the throat-clearing opener, the em dashes, the "isn't X, it's Y" construction twice, "almost magical," a paragraph that builds to a quotable punchline.
 
-> On July 13 we start charging for the product we've spent eight months building. There are two of us and no investors. I'm going to write down what happens each week between now and then, numbers included, mostly because I always wished other founders would publish this stuff.
->
-> The numbers this week:
->
-> People using it: 13
-> Days left: 33
->
-> 13 is a small number. I considered not publishing it. But a log where the numbers only show up once they're good isn't a log.
+Here is how Paul Graham actually wrote that idea, in the first three sentences of [Write Simply](http://paulgraham.com/simply.html):
 
-Notice what changed. The first version is better sentence-by-sentence. The second version is better, period. The first performs an insight. The second just tells you what's happening, and the facts (two people, 13 users, 33 days) do the work the rhetoric was failing to do.
+> "I try to write using ordinary words and simple sentences. That kind of writing is easier to read, and the easier something is to read, the more deeply readers will engage with it. The less energy they expend on your prose, the more they'll have left for your ideas."
+
+Same idea. The first version performs it. The second just says it, and the saying is the proof: you read those three sentences without noticing them. That is the entire skill.
 
 ## What this skill is not
 
