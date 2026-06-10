@@ -22,7 +22,7 @@ So the skill is mostly subtraction. You're not adding style. You're removing eve
 
 2. **Short common words.** "Use" not "utilize." "Helps" not "facilitates." "Now" not "in today's landscape." If a simpler word means the same thing, the longer one is decoration.
 
-3. **Write like you talk.** The test: read it aloud. Every sentence you wouldn't actually say to a smart friend, rewrite until you would. Spoken language is the language readers process fastest.
+3. **Write like you talk.** The test: read it aloud. Every sentence you wouldn't actually say to a smart friend, rewrite until you would. Spoken language is the language readers process fastest. Two marks of talk worth checking for: the word "you" (talking has a listener), and repeated key words. Talk grabs the right word and keeps using it; PG uses "conceal" three times in three sentences. Rotating synonyms instead (hides, shows, masks, obscures) is a writing habit, and the variation is itself decoration.
 
 4. **No em dashes.** This is the single most reliable AI tell, and PG barely uses them. An em dash usually hides a sentence having it both ways. Replace with a colon, a comma, parentheses, or two sentences. (A signature like "— Josh" is fine. Prose dashes are not.)
 
@@ -46,6 +46,8 @@ So the skill is mostly subtraction. You're not adding style. You're removing eve
 
 14. **Explain, don't dramatize.** An anecdote is evidence. Report it in one flat sentence and spend the space on the reasoning it supports. Scene-setting fragments, atmosphere, and emotional staging are manufactured feeling, and readers can tell it's manufactured. The test: could this paragraph appear in an explanation? If it could only appear in a performance, cut it.
 
+15. **Observations, not laws.** "Writers with small ideas decorate" is a theorem. "That's why some people write that way" is an observation. The qualified version is both truer and more believable. Compressing an observation into a universal law makes it sound clever, and sounding clever is the failure mode. PG includes himself and the reader in the behavior he's describing; a piece that only indicts other people reads as smug.
+
 ## AI tells to strip (the editing checklist)
 
 Run this pass on any draft, yours or a model's:
@@ -60,6 +62,9 @@ Run this pass on any draft, yours or a model's:
 - Adjective inflation (if every noun has a modifier, none of them matter)
 - Summary endings and call-to-action endings where no real ask exists
 - Italics on the word the reader was *already* going to stress
+- Elegant variation: rotating synonyms for the key word instead of repeating it (rule 3)
+- Universal laws where a qualified observation would do (rule 15)
+- No "you" anywhere in the piece (it's performing for an audience, not talking to a person)
 
 ## The process
 
