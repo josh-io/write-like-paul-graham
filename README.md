@@ -6,7 +6,7 @@ A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code) that makes
 
 I asked my AI to draft a LinkedIn post. The draft sounded like AI: little punchlines, fake emotion, em dashes everywhere. So I told it my favorite writing is [Paul Graham's essays](https://www.paulgraham.com/articles.html), and to write more like him.
 
-The rewrite was the post I published. Then I had it turn what it changed into rules, and this skill is those rules. Since then, every time a draft drifts back, I add a rule. There are fifteen now.
+The rewrite was better, so I had it write down what it changed as rules. This skill is those rules. Every time a draft drifts back, I add a rule. There are fifteen now.
 
 ## What it does
 
