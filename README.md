@@ -4,15 +4,15 @@ A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code) that makes
 
 ## The story
 
-I asked my AI to draft a LinkedIn post. Every sentence was fine and I couldn't publish it. Each paragraph ended on a little punchline, the emotion was fake, and there were em dashes everywhere. So I told it my favorite writing is [Paul Graham's essays](https://www.paulgraham.com/articles.html), and that my own register is matter of fact.
+I asked my AI to draft a LinkedIn post. The draft sounded like AI: little punchlines, fake emotion, em dashes everywhere. So I told it my favorite writing is [Paul Graham's essays](https://www.paulgraham.com/articles.html), and to write more like him.
 
-The rewrite was the post I published. Then I had it write down what it changed and why, as rules, and the rules became this skill. Since then, every time a draft has drifted back toward AI, the correction has become another rule. There are fifteen now.
+The rewrite was the post I published. Then I had it turn what it changed into rules, and this skill is those rules. Since then, every time a draft drifts back, I add a rule. There are fifteen now.
 
 ## What it does
 
-Drafts and edits prose in Paul Graham's register: ordinary words, short declarative sentences, honest qualifiers, no em dashes, no punchlines, no fake emotion. The skill includes a checklist of AI tells to strip, a before and after example, and measured baselines from his essays (words per sentence, paragraph length, grade level) so the model can check a draft against the real thing instead of its memory of the real thing.
+Drafts and edits prose the way Paul Graham writes it: ordinary words, short sentences, honest qualifiers, no em dashes, no punchlines, no fake emotion. The skill includes a checklist of AI tells to strip, a before and after example, and measured baselines from his essays (words per sentence, paragraph length, grade level) so the model can check a draft against his actual sentences.
 
-It transfers his register, not his opinions.
+It copies his style, not his opinions.
 
 ## Install
 
