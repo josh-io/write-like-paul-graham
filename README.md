@@ -1,6 +1,6 @@
 # write-like-paul-graham
 
-A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code) that makes AI stop writing like AI.
+A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code) that makes AI write simply.
 
 ## The story
 
