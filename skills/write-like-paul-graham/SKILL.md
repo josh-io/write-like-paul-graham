@@ -34,7 +34,7 @@ So the skill is mostly subtraction: remove everything that isn't the idea.
 
 8. **No formatting as emotion.** No bold for emphasis in prose. No italics as stage direction. No dramatic one-line paragraphs. If the sentence needs typography to land, the sentence is the problem.
 
-9. **One analogy, maximum, and only if it explains.** An analogy that decorates ("like a lighthouse in the fog of productivity") gets cut. An analogy that explains ("building an AI with AI still feels strange, though I suspect in a year it won't, the way electricity stopped feeling strange") can stay. Maybe.
+9. **One comparison, maximum, and only if it explains.** Metaphors and similes usually decorate: "like a lighthouse in the fog of productivity" restates the sentence with scenery, so it gets cut. An analogy can explain, because it maps something the reader already understands onto something they don't: "building an AI with AI still feels strange, though I suspect in a year it won't, the way electricity stopped feeling strange." That one can stay. Maybe. (PG's own metaphors earn their place the same way: "athletic clothing of ideas" tells you what informal language is for.)
 
 10. **Start with the thing itself.** No throat-clearing, no "In a world where," no rhetorical question as an opener. PG essays start mid-thought: the first sentence is already content.
 
