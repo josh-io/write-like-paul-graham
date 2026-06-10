@@ -1,6 +1,6 @@
 ---
 name: write-like-paul-graham
-description: Use when writing or editing prose that should read plain, direct, and human - essays, founder posts, launch logs, emails, READMEs, landing copy. Triggers on "this sounds like AI", "de-AI this", "write like Paul Graham", "make it matter-of-fact", "plain prose", or any draft the user says reads as written-by-a-model. Produces the PG register: short declarative sentences, ideas over rhetoric, no em dashes, no aphorism-stacking.
+description: 'Use when writing or editing prose that should read plain, direct, and human - essays, founder posts, launch logs, emails, READMEs, landing copy. Triggers on "this sounds like AI", "de-AI this", "write like Paul Graham", "make it matter-of-fact", "plain prose", or any draft the user says reads as written-by-a-model. Produces the PG register: short declarative sentences, ideas over rhetoric, no em dashes, no aphorism-stacking.'
 license: MIT
 ---
 
