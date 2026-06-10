@@ -63,6 +63,7 @@ Run this pass on any draft, yours or a model's:
 - Summary endings and call-to-action endings where no real ask exists
 - Italics on the word the reader was *already* going to stress
 - Elegant variation: rotating synonyms for the key word instead of repeating it (rule 3)
+- Words carrying private meaning: a term that means something specific to you or to another draft ("decorate," "the spine") but that this piece never sets up. The reader gets the dictionary word and has to guess the rest.
 - Universal laws where a qualified observation would do (rule 15)
 - No "you" anywhere in the piece (it's performing for an audience, not talking to a person)
 

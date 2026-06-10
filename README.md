@@ -30,7 +30,7 @@ Then ask Claude to "de-AI this", "make this matter-of-fact", or "write like Paul
 
 ## Why bother
 
-Models learned to write from people, and a lot of people decorate. So models decorate. Readers have spent three years learning to spot it, and now plain writing is the writing that reads as human. Paul Graham has been explaining how to do it for twenty years. This skill makes your AI take the advice.
+Models learned to write from people, and a lot of people write fancy to hide having nothing to say. So models write fancy. Readers have spent three years learning to spot it, and now plain writing is the writing that reads as human. Paul Graham has been explaining how to write plainly for twenty years. This skill makes your AI take his advice.
 
 ## License
 
