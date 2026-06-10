@@ -97,6 +97,12 @@ Notice what changed. The first version is better sentence-by-sentence. The secon
 - Not a Paul Graham impersonation. Don't adopt his opinions, his topics, or his "I" unless you share them. The register transfers; the man doesn't.
 - Not an excuse for lazy thinking. Plain prose exposes weak ideas. That's the point.
 
+## Calibrating against the source
+
+When a draft needs tighter calibration than the rules provide, fetch one or two of Graham's essays live and study the sentences before writing. `references/essays.md` maps each essay to the rule it best demonstrates, with a four-step calibration process.
+
+Fetch, don't bundle: Graham's FAQ asks for links rather than mirrors, so this skill ships none of his text. Quote him only in short attributed snippets, and never copy his sentences into your output.
+
 ## Sources
 
 Paul Graham's essays on writing, which say all of this better:
