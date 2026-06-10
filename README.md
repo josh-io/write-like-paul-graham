@@ -36,4 +36,4 @@ Models learned to write from people, and a lot of people decorate. So models dec
 
 MIT. Not affiliated with or endorsed by Paul Graham. His essays stay on his site: the skill fetches them to calibrate and never copies them.
 
-Made by [Josh Merrill](https://www.linkedin.com/in/joshuamerrill) while building [Clair](https://getvoyance.com), a personal AI that catches the plans hiding in your messages.
+Made by [Josh Merrill](https://www.linkedin.com/in/josh-io/) while building [Clair](https://getvoyance.com), a personal AI that catches the plans hiding in your messages.
